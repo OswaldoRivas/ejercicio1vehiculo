@@ -43,7 +43,7 @@ namespace ejercicio1vehiculo
         static void Main(string[] args)
         {
             Vehiculo v1 = new Vehiculo(1, "Ford", "Fiesta", 10000, 10000, 2010);
-            Console.WriteLine(v1.ToString());//se usa el metodo ToString para invocar el mensaje sin escribir otra vez
+            Console.WriteLine(v1.ToString());//Se usa el metodo ToString para invocar el mensaje sin escribir otra vez
             Console.ReadKey();
         }
     }
