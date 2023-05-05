@@ -10,6 +10,7 @@ namespace ejercicio1vehiculo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Holis");
         }
     }
 }
